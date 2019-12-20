@@ -1,0 +1,3 @@
+gripper		130' to 30'	close to open	pin 7
+arm		40' to  150'    down to up	pin 6
+rotate		30' to 150'	right to left	pin 5
